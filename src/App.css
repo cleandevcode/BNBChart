@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  height: 600px;
+  height: 500px;
 }
 
 .App-logo {
@@ -36,4 +36,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#widget-container {
+  top: 100px;
+}
+
+.chart-page {
+  background-color: unset;
+}
+
+#tradingview_791aa-wrapper {
+  top: 100px;
+}
+
+#tradingview_c1706 {
+  top: 100px !important;
 }
